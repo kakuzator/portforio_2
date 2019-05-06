@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>スタログ!</title>
+  <link rel="stylesheet" href="">
   <link rel="stylesheet" href="app.css">
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://use.fontawesome.com/releases/v5.8.0/js/all.js" data-auto-replace-svg="nest"></script>
